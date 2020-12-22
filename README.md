@@ -51,6 +51,15 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 <br>
 
 
+### Latest projects
+
+- 👨🏻‍💼 Currently working on a secret project with REACT and Flask (Python)...
+- 👾 Space Invaders Replica in Python and PyGame Zero ([here...](https://github.com/sondreandersen96/space_invaders)) 
+- 📈 Simple Stock Trading Dashboard created with REACT ([here...](https://github.com/sondreandersen96/obx_chart_front_end))
+- 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
+- 🎮 Snake Game created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/simple_snake_p5_js))
+- 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
+
 
 
 
