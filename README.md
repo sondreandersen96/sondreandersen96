@@ -24,7 +24,7 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Python" width="26px" src="https://github.com/sondreandersen96/sondreandersen96/media/python.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/sondreandersen96/sondreandersen96/blob/main/media/pythonLogo.png" />
 
 
 
