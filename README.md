@@ -52,6 +52,7 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 
 
 ### Latest projects
+Take a look a some of my most resent projects on Github!
 
 - 👨🏻‍💼 Currently working on a secret project with REACT and Flask (Python)...
 - 👾 Space Invaders Replica in Python and PyGame Zero ([here...](https://github.com/sondreandersen96/space_invaders)) 
