@@ -1,8 +1,13 @@
 # Hi there 👋
-Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at University Of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Master's Degree in Business Administration. Interested in all things tech, from web development to robotics and space exploration. 
+Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at University Of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Master's Degree in Business Administration, where I specialized in Economics, Finance and Econometrics. Interested in all things tech, from web development to robotics and space exploration. 
 
 - 🔭 I’m currently working on a creating websites with the REACT framework. 
 - 🌱 I’m currently learning JavaScript and Java. 
+
+<p align="center">
+    <strong><a href='https://www.linkedin.com/in/sondre-andersen-1353091a7'>Feel to contact me on LinkedIn</a></strong>
+</p>
+
 
 
 
@@ -60,13 +65,7 @@ Take a look a some of my most resent projects on Github!
 - 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
 - 🎮 Snake Game created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/simple_snake_p5_js))
 - 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
-
-
-
-
-
-
-
+- 🎓 Code used in MBA Master's thesis (Python and R) ([here...](https://github.com/sondreandersen96/masters_thesis_code))
 
 
 
@@ -85,4 +84,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="mailto:me@mail.com">📬 E-mail</a></strong>
 -->
