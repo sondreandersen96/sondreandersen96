@@ -1,5 +1,5 @@
 # Hi there 👋
-Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at University Of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Master's Degree in Business Administration, where I specialized in Economics, Finance and Econometrics. Interested in all things tech, from web development to robotics and space exploration. 
+Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Master's Degree in Business Administration, where I specialized in Economics, Finance and Econometrics. Interested in all things tech, from web development to robotics and space exploration. 
 
 - 🔭 I’m currently working on a creating websites with the REACT framework. 
 - 🌱 I’m currently learning JavaScript and Java. 
