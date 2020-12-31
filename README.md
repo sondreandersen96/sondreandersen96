@@ -1,7 +1,7 @@
 # Hi there 👋
 Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Master's Degree in Business Administration, where I specialized in Economics, Finance and Econometrics. Interested in all things tech, from web development to robotics and space exploration. 
 
-- 🔭 I’m currently working on a creating websites with the REACT framework. 
+- 🔭 I’m currently working on a creating websites with the React framework. 
 - 🌱 I’m currently learning JavaScript and Java. 
 
 <p align="center">
@@ -59,9 +59,9 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 ### Latest projects
 Take a look a some of my most resent projects on Github!
 
-- 👨🏻‍💼 Currently working on a secret project with REACT and Flask (Python)...
+- 👨🏻‍💼 Currently working on a secret project with React and Flask (Python)...
 - 👾 Space Invaders Replica in Python and PyGame Zero ([here...](https://github.com/sondreandersen96/space_invaders)) 
-- 📈 Simple Stock Trading Dashboard created with REACT ([here...](https://github.com/sondreandersen96/obx_chart_front_end))
+- 📈 Simple Stock Trading Dashboard created with React ([here...](https://github.com/sondreandersen96/obx_chart_front_end))
 - 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
 - 🎮 Snake Game created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/simple_snake_p5_js))
 - 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
