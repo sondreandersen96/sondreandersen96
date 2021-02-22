@@ -1,7 +1,7 @@
 # Hi there 👋
 Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Master's Degree in Business Administration, where I specialized in Economics, Finance and Econometrics. Interested in all things tech, from web development to robotics and space exploration. 
 
-- 🔭 I’m currently working on a creating websites with the React framework. 
+- 🔭 I’m currently working on creating websites with the React framework. 
 - 🌱 I’m currently learning JavaScript and Java. 
 
 <p align="center">
@@ -65,7 +65,7 @@ Take a look a some of my most resent projects on Github!
 - 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
 - 🎮 Snake Game created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/simple_snake_p5_js))
 - 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
-- 🎓 Code used in MBA Master's thesis (Python and R) ([here...](https://github.com/sondreandersen96/masters_thesis_code))
+- 🎓 Code used in MBA Master's Thesis (Python and R) ([here...](https://github.com/sondreandersen96/masters_thesis_code))
 
 
 
