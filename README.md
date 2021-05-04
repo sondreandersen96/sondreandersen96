@@ -57,9 +57,9 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 
 
 ### Latest projects
-Take a look a some of my most resent projects on Github!
+Take a look at some of my most resent projects on Github!
 
-- 👨🏻‍💼 Currently working on a secret project with React and Flask (Python)...
+- 👨🏻‍💼 Currently working on a secret project with React and Strava's API...
 - 👾 Space Invaders Replica in Python and PyGame Zero ([here...](https://github.com/sondreandersen96/space_invaders)) 
 - 📈 Simple Stock Trading Dashboard created with React ([here...](https://github.com/sondreandersen96/obx_chart_front_end))
 - 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
