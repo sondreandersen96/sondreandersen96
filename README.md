@@ -63,7 +63,7 @@ Take a look at some of my most resent projects on Github!
 - 👾 Space Invaders Replica in Python and PyGame Zero ([here...](https://github.com/sondreandersen96/space_invaders)) 
 - 📈 Simple Stock Trading Dashboard created with React ([here...](https://github.com/sondreandersen96/obx_chart_front_end))
 - 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
-- 🎮 Snake Game created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/simple_snake_p5_js))
+- 🎮 Snake Game created with the P5.js JavaScript library ([code here...](https://github.com/sondreandersen96/simple_snake_p5_js)) ([try it out here...](https://sondreandersen96.github.io/simple_snake_p5_js/index.html))
 - 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
 - 🎓 Code used in MBA Master's Thesis (Python and R) ([here...](https://github.com/sondreandersen96/masters_thesis_code))
 
