@@ -5,7 +5,7 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 - 🌱 I’m currently learning JavaScript and Java. 
 
 <p align="center">
-    <strong><a href='https://www.linkedin.com/in/sondre-andersen-1353091a7'>Feel to contact me on LinkedIn</a></strong>
+    <strong><a href='www.linkedin.com/in/sondre-andersen'>Feel to contact me on LinkedIn</a></strong>
 </p>
 
 
