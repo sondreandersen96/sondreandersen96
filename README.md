@@ -5,7 +5,7 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 - 🌱 I’m currently learning JavaScript and Java. 
 
 <p align="center">
-    <strong><a href='www.linkedin.com/in/sondre-andersen'>Feel to contact me on LinkedIn</a></strong>
+    <strong><a href='https://www.linkedin.com/in/sondre-andersen'>Feel to contact me on LinkedIn</a></strong>
 </p>
 
 
@@ -23,6 +23,17 @@ Hi! My name is Sondre Andersen, I am a Computer Science (CS) student at Universi
 
 <br>
 <br>
+
+
+
+📈 **My GitHub Stats:**
+
+<br>
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sondreandersen96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondreandersen96&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 
